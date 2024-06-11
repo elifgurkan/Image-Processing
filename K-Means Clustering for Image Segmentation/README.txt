@@ -1,0 +1,4 @@
+This assignment gives us a chance to explore the use of K-Means clustering in image segmentation, a key technique in unsupervised learning. It discusses how this method partitions images into distinct segments for better analysis and understanding. The approach combines two advanced feature extraction techniques: Pixel-Level Features, which includes both color (RGB) and spatial information, and Superpixel-Level Features, utilizing the SLIC Superpixel method. The report highlights the effectiveness of these features in segmentation, emphasizing the importance of nuanced segmentation and detailed analysis in image processing. The assignment also reflects on the power of merging traditional algorithms with innovative feature extraction methods for advanced image processing applications.
+
+My google drive link:
+https://drive.google.com/drive/folders/1lPdpm_Hb6-VpS8NTIuQURCdP2H678w9q?usp=share_link
